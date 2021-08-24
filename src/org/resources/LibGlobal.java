@@ -2,15 +2,15 @@ package org.resources;
 
 public class LibGlobal {
 	
-	public static void getDriver() {
+	public static void LoadUrl() {
 		
-		System.out.println("GetDriver");	
+		System.out.println("LoadUrl");	
 		
 	}
 	
 	public static void main(String[] args) {
 		
-		getDriver();
+		LoadUrl();
 	}
 
 }
